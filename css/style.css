@@ -1,0 +1,21 @@
+/*
+* @Author: Marte
+* @Date:   2017-12-26 16:59:16
+* @Last Modified by:   Marte
+* @Last Modified time: 2017-12-26 17:23:01
+*/
+*{margin:0;padding: 0;list-style: none;background: red;}
+li{
+    width: 50%;
+    height:20px;
+    line-height: 20px;
+    font-weight: 700;
+    background:blue;
+    border:solid 1px yellow;
+    color:#fff;
+}
+#btn{
+    background:green;
+    padding:10px;
+    color: #fff;
+}
